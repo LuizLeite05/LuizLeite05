@@ -1,6 +1,8 @@
-Hi there, I'm Luiz 👋
-
-A Little About Myself:
+<html>
+<h1>Hi there, I'm Luiz Henrique 👋</h1>
+</br>
+  
+<h3>A Little About Myself:</h3>
 
 - 🔭 I'm currently studying Computer Science at UTFPR.
 - 🌱 I'm currently learning dynamic allocation in C.
@@ -11,13 +13,23 @@ A Little About Myself:
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love listening to music (all types)
   
-🖥️ My Tech Stack 🖥️
-  ► HTML | CSS | HandleBars | JavaScript
-  ► NodeJs | Tkinter
-  ► Java | C | Python | PHP (basic only)
-  ► MySql |  WampServer | SQLServer
-  ► Blender | Canva | (basic only)
+<h2>🖥️ My Tech Stack 🖥️ </h2></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,java,c,py,php,mysql&perline=3)
+  </br>
+  </br>
+<h3>📚 Other Technologies 📚</h3></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  ![My Skills](https://skillicons.dev/icons?i=blender,arduino,git,github,linux,vscode&perline=3)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizLeite05&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizLeite05&hide_progress=true)
+
+</br><h2>🔗 My Social media<h2>
+  Instagram: luiz_leite05 </br>
+  Discord: .luiz_leite05 </br>
+  Spotify: O.tal.do.Leite</br>
+  </html>
+
